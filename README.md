@@ -7,13 +7,23 @@
 
 **Descrição**
 
+Este é o repositório do projeto para o site da Yurax-IT, uma consultoria inovadora e empreendedora especializada em cibersegurança. Desenvolva uma presença online impactante com nossa estrutura organizada de pastas, design responsivo e conteúdo envolvente. Explore as páginas de serviços, conheça nossa equipe, leia depoimentos de clientes e fique atualizado sobre as últimas notícias em cibersegurança por meio do nosso blog. Junte-se à nossa equipe talentosa e apaixonada através da seção de Carreiras. Defenda seu mundo digital conosco!
+
+Principais Pontos:
+
+    Estrutura de pastas organizada
+    Design responsivo
+    Conteúdo envolvente e informativo
+    Seções específicas para serviços, equipe, depoimentos, blog e carreiras
+
+Comece a desenvolver hoje e fortaleça a presença online da Yurax-IT!
 
 
 ### Layout
 
-[Veja o App em funcionamento][link]
+[Site][link]
 
-[link]: https://example.com/
+[link]: https://yurax.vercel.app
 
 
 
