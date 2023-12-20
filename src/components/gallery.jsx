@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Galeria</h2>
+          <h2>Soluções</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Cada cliente é único para nós. Desenvolvemos soluções aderentes ao perfil e características específicas de cada organização. Nossa equipe especializada garante a identificação e controle de riscos de maneira personalizada.
           </p>
         </div>
         <div className="row">
